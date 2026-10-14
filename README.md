@@ -37,6 +37,11 @@ aws-wall-hit/
 
 分類ごとのREADMEに、作成したノートへのリンクを追加していきます。
 
+### 学習ノート
+
+- [認証と認可の違い](notes/concepts/authentication-and-authorization.md)
+- [GitHubで会社用・個人用の認証を分ける方法](notes/troubleshooting/github-authentication.md)
+
 ## ノートの書き方
 
 1. 関連するノートがあれば読み、新しいテーマなら[共通テンプレート](notes/TEMPLATE.md)をコピーしてノートを作る。
